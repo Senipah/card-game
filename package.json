@@ -14,7 +14,15 @@
     "styled-components": "^5.0.1",
     "styled-normalize": "^8.0.7"
   },
+  "plugins": [
+    "babel-plugin-styled-components"
+  ],
+  "resolutions": {
+    "serialize-javascript": "^2.1.1"
+  },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
