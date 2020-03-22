@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.887430d6.chunk.js",
+    "main.js.map": "/static/js/main.887430d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.567273c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.567273c5.js.map",
+    "static/js/2.c82d657a.chunk.js": "/static/js/2.c82d657a.chunk.js",
+    "static/js/2.c82d657a.chunk.js.map": "/static/js/2.c82d657a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df8823418ddf1eaaa7b83d9a3a81ddc7.js": "/precache-manifest.df8823418ddf1eaaa7b83d9a3a81ddc7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c82d657a.chunk.js.LICENSE.txt": "/static/js/2.c82d657a.chunk.js.LICENSE.txt",
+    "static/media/Drums.png": "/static/media/Drums.0b3250e0.png",
+    "static/media/Guitar.png": "/static/media/Guitar.6c64c718.png",
+    "static/media/Harp.png": "/static/media/Harp.e7816627.png",
+    "static/media/Maracas.png": "/static/media/Maracas.7d5ae6c3.png",
+    "static/media/Piano.png": "/static/media/Piano.f29472b2.png",
+    "static/media/Saxophone.png": "/static/media/Saxophone.eaa6a01b.png",
+    "static/media/Violin.png": "/static/media/Violin.87956600.png",
+    "static/media/Xylophone.png": "/static/media/Xylophone.dc75f22f.png",
+    "static/media/background.png": "/static/media/background.bbe05aad.png",
+    "static/media/logo.png": "/static/media/logo.8ca9063d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567273c5.js",
+    "static/js/2.c82d657a.chunk.js",
+    "static/js/main.887430d6.chunk.js"
+  ]
+}
